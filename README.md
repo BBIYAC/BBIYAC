@@ -1,5 +1,5 @@
 # 🙋 Hi, I'm InYeong!
-<a href="mailto:kiy7833@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kiy7833@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> </a><a href="https://www.instagram.com/inyeong.ll2o" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://velog.io/@bbiyac" target="_blank"><img src="https://img.shields.io/badge/Blog-7F2B7B?style=flat-square&logo=Velog&logoColor=white"/> </a> 
+<a href="mailto:dlsdud1757@naver.com" target="_blank"><img src="https://img.shields.io/badge/dlsdud1757@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> </a><a href="https://www.instagram.com/inyeong.ll2o" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://velog.io/@bbiyac" target="_blank"><img src="https://img.shields.io/badge/Blog-7F2B7B?style=flat-square&logo=Velog&logoColor=white"/> </a> 
 <!--   
 ### 🔨 Skills
 Tech I've used at least once   
